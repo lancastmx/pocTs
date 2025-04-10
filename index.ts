@@ -101,3 +101,4 @@ function error(mensaje: string): never {
 //   while (true) {}
 //   // Nunca sale del bucle
 // }
+console.log('Holaprerros')
