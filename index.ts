@@ -102,3 +102,4 @@ function error(mensaje: string): never {
 //   // Nunca sale del bucle
 // }
 console.log('Holaprerros')
+console.log('Esto es un prueba para saber si se estan pintanto los cuadritos de gitHub')
