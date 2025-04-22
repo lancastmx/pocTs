@@ -103,3 +103,6 @@ function error(mensaje: string): never {
 // }
 console.log('Holaprerros')
 console.log('Esto es un prueba para saber si se estan pintanto los cuadritos de gitHub')
+
+
+console.log('Hol 22/04/2025: No toque este curso')
