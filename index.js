@@ -75,3 +75,11 @@ function error(mensaje) {
 //   while (true) {}
 //   // Nunca sale del bucle
 // }
+console.log('Holaprerros');
+console.log('Esto es un prueba para saber si se estan pintanto los cuadritos de gitHub');
+console.log('Hol 22/04/2025: No toque este curso');
+// Clase 4 de 26 • Tipos especiales: any, unknown, never, void de TypeScript
+function throwError(message) {
+    throw new Error(message);
+}
+throwError("Esto es un error"); // Lanza un error y nunca retorna
