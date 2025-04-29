@@ -116,3 +116,7 @@ function throwError(message: string): never {
 }
 
 throwError("Esto es un error"); // Lanza un error y nunca retorna
+
+console.log('hoy 29 de abril de 2025'); // Esta línea nunca se alcanzará
+
+const objeto: any = { nombre: "Juan", edad: 30 };
